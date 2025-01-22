@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Aceite de oliva 0,4º Hacendado",
+    "price": "23,95 € /ud.",
+    "footnote": [
+      "Garrafa",
+      "5 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva 0,4º Hacendado",
+    "price": "5,96 €5,15 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen extra Hacendado",
+    "price": "19,93 €17,95 € /ud.",
+    "footnote": [
+      "Garrafa",
+      "3 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen extra Hacendado",
+    "price": "6,88 €6,35 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen extra Hacendado Gran Selección",
+    "price": "7,09 € /ud.",
+    "footnote": [
+      "Botella",
+      "750 ml"
+    ]
+  },
+  {
+    "name": "Aceite de oliva 1º Hacendado",
+    "price": "23,95 € /ud.",
+    "footnote": [
+      "Garrafa",
+      "5 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva 1º Hacendado",
+    "price": "5,96 €5,15 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen Hacendado",
+    "price": "18,30 €15,60 € /ud.",
+    "footnote": [
+      "Garrafa",
+      "3 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen Hacendado",
+    "price": "6,37 €5,50 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen extra Hacendado",
+    "price": "2,96 €2,80 € /ud.",
+    "footnote": [
+      "Spray",
+      "200 ml"
+    ]
+  },
+  {
+    "name": "Aceite de oliva virgen extra Picual Casa Juncal",
+    "price": "6,07 € /ud.",
+    "footnote": [
+      "Botella",
+      "500 ml"
+    ]
+  },
+  {
+    "name": "Aceite de girasol refinado 0,2º Hacendado",
+    "price": "8,70 € /ud.",
+    "footnote": [
+      "Garrafa",
+      "5 L"
+    ]
+  },
+  {
+    "name": "Aceite de girasol refinado 0,2º Hacendado",
+    "price": "1,79 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Aceite de coco virgen Hacendado",
+    "price": "4,55 € /ud.",
+    "footnote": [
+      "Bote",
+      "450 ml"
+    ]
+  },
+  {
+    "name": "Vinagre de vino blanco Hacendado",
+    "price": "0,65 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Vinagre de manzana Hacendado",
+    "price": "0,80 € /ud.",
+    "footnote": [
+      "Botella",
+      "1 L"
+    ]
+  },
+  {
+    "name": "Limón exprimido Hacendado",
+    "price": "1,00 € /ud.",
+    "footnote": [
+      "Botella",
+      "280 ml"
+    ]
+  },
+  {
+    "name": "Crema de vinagre balsámico de Módena Hacendado",
+    "price": "1,75 € /ud.",
+    "footnote": [
+      "Botella",
+      "250 g"
+    ]
+  },
+  {
+    "name": "Vinagre de Jerez reserva Hacendado",
+    "price": "2,00 € /ud.",
+    "footnote": [
+      "Botella",
+      "250 ml"
+    ]
+  },
+  {
+    "name": "Reducción bálsamica de vinagre Pedro Ximénez Hacendado",
+    "price": "2,25 € /ud.",
+    "footnote": [
+      "Botella",
+      "300 g"
+    ]
+  },
+  {
+    "name": "Vinagre balsámico de Módena Hacendado",
+    "price": "2,35 € /ud.",
+    "footnote": [
+      "Botella",
+      "500 ml"
+    ]
+  },
+  {
+    "name": "Sal fina Hacendado",
+    "price": "0,40 € /ud.",
+    "footnote": [
+      "Paquete",
+      "1 kg"
+    ]
+  },
+  {
+    "name": "Sal fina de mesa Hacendado",
+    "price": "0,75 € /ud.",
+    "footnote": [
+      "Bote",
+      "300 g"
+    ]
+  },
+  {
+    "name": "Sal yodada fina Hacendado",
+    "price": "0,40 € /ud.",
+    "footnote": [
+      "Paquete",
+      "1 kg"
+    ]
+  },
+  {
+    "name": "Sal gruesa Hacendado",
+    "price": "0,40 € /ud.",
+    "footnote": [
+      "Paquete",
+      "1 kg"
+    ]
+  },
+  {
+    "name": "Bicarbonato de sódio Hacendado",
+    "price": "1,50 € /ud.",
+    "footnote": [
+      "Paquete",
+      "1 kg"
+    ]
+  },
+  {
+    "name": "Bicarbonato de sódio Hacendado",
+    "price": "1,10 € /ud.",
+    "footnote": [
+      "Bote",
+      "300 g"
+    ]
+  },
+  {
+    "name": "Escamas de sal marina natural Polasal",
+    "price": "2,00 € /ud.",
+    "footnote": [
+      "Bote",
+      "125 g"
+    ]
+  },
+  {
+    "name": "Sal gruesa para hornear Hacendado",
+    "price": "1,25 € /ud.",
+    "footnote": [
+      "Paquete",
+      "2 kg"
+    ]
+  },
+  {
+    "name": "Sal de ajo Hacendado",
+    "price": "1,80 € /ud.",
+    "footnote": [
+      "Bote",
+      "130 g"
+    ]
+  },
+  {
+    "name": "Sal de frutas sabor limón Hacendado",
+    "price": "2,10 € /ud.",
+    "footnote": [
+      "Bote",
+      "250 g"
+    ]
+  },
+  {
+    "name": "Sal 60% menos de sodio Hacendado",
+    "price": "2,30 € /ud.",
+    "footnote": [
+      "Bote",
+      "250 g"
+    ]
+  },
+  {
+    "name": "Preparado para ahumar Hacendado",
+    "price": "3,30 € /ud.",
+    "footnote": [
+      "Bote",
+      "750 g"
+    ]
+  },
+  {
+    "name": "Sal rosa del Himalaya Hacendado",
+    "price": "2,65 € /ud.",
+    "footnote": [
+      "Paquete",
+      "1 kg"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "my-js-app",
+  "version": "1.0.0",
+  "description": "A JavaScript application that processes URL parameters.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "playwright": "^1.49.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
