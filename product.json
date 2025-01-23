@@ -1,157 +1,138 @@
 [
   {
-    "name": "Atún en aceite de girasol Hacendado",
-    "price": "6,45 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Aceite de oliva 0,4º Hacendado",
+    "precio": "23,95 € /ud."
   },
   {
-    "name": "Atún claro en aceite de girasol Hacendado",
-    "price": "4,20 € /pack",
-    "footnote": "6 latas x 60 g"
+    "nombre": "Aceite de oliva 0,4º Hacendado",
+    "precio": "5,96 €5,15 € /ud."
   },
   {
-    "name": "Atún claro en aceite de girasol Hacendado",
-    "price": "2,65 € /pack",
-    "footnote": "3 latas x 60 g"
+    "nombre": "Aceite de oliva virgen extra Hacendado",
+    "precio": "19,93 €17,95 € /ud."
   },
   {
-    "name": "Atún en aceite de oliva Hacendado",
-    "price": "8,00 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Aceite de oliva virgen extra Hacendado",
+    "precio": "6,88 €6,35 € /ud."
   },
   {
-    "name": "Atún claro en aceite de oliva Hacendado",
-    "price": "5,15 € /pack",
-    "footnote": "6 latas x 60 g"
+    "nombre": "Aceite de oliva virgen extra Hacendado Gran Selección",
+    "precio": "7,09 € /ud."
   },
   {
-    "name": "Atún claro en aceite de oliva Hacendado",
-    "price": "1,60 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Aceite de oliva 1º Hacendado",
+    "precio": "23,95 € /ud."
   },
   {
-    "name": "Atún claro bajo en sal en aceite de oliva Hacendado",
-    "price": "3,00 € /pack",
-    "footnote": "3 latas x 60 g"
+    "nombre": "Aceite de oliva 1º Hacendado",
+    "precio": "5,96 €5,15 € /ud."
   },
   {
-    "name": "Atún claro al natural Hacendado",
-    "price": "4,20 € /pack",
-    "footnote": "6 latas x 60 g"
+    "nombre": "Aceite de oliva virgen Hacendado",
+    "precio": "18,30 €15,60 € /ud."
   },
   {
-    "name": "Atún claro en escabeche blanco Hacendado",
-    "price": "4,70 € /pack",
-    "footnote": "6 latas x 60 g"
+    "nombre": "Aceite de oliva virgen Hacendado",
+    "precio": "6,37 €5,50 € /ud."
   },
   {
-    "name": "Atún claro en aceite de oliva Hacendado",
-    "price": "3,75 € /ud.",
-    "footnote": "Bote"
+    "nombre": "Aceite de oliva virgen extra Hacendado",
+    "precio": "2,96 €2,80 € /ud."
   },
   {
-    "name": "Atún en salsa de tomate Hacendado",
-    "price": "2,10 € /pack",
-    "footnote": "3 latas x 52 g"
+    "nombre": "Aceite de oliva virgen extra Picual Casa Juncal",
+    "precio": "6,07 € /ud."
   },
   {
-    "name": "Ventresca de atún claro en aceite de oliva Hacendado",
-    "price": "3,30 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Aceite de girasol refinado 0,2º Hacendado",
+    "precio": "8,70 € /ud."
   },
   {
-    "name": "Migas de bonito del norte en aceite de oliva Hacendado",
-    "price": "2,65 € /pack",
-    "footnote": "3 latas x 52 g"
+    "nombre": "Aceite de girasol refinado 0,2º Hacendado",
+    "precio": "1,79 € /ud."
   },
   {
-    "name": "Bonito del norte en aceite de oliva Hacendado",
-    "price": "3,30 € /pack",
-    "footnote": "2 latas x 73 g"
+    "nombre": "Aceite de coco virgen Hacendado",
+    "precio": "4,55 € /ud."
   },
   {
-    "name": "Filetes de bonito del norte en aceite de oliva Hacendado",
-    "price": "7,40 € /ud.",
-    "footnote": "Tarro"
+    "nombre": "Vinagre de vino blanco Hacendado",
+    "precio": "0,65 € /ud."
   },
   {
-    "name": "Filetes de caballa del sur en aceite de oliva Hacendado",
-    "price": "2,05 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Vinagre de manzana Hacendado",
+    "precio": "0,80 € /ud."
   },
   {
-    "name": "Filetes de caballa del sur en tomate Hacendado",
-    "price": "1,55 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Limón exprimido Hacendado",
+    "precio": "1,00 € /ud."
   },
   {
-    "name": "Filetes de caballa del sur bajo contenido en sal Hacendado en aceite de oliva",
-    "price": "2,45 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Crema de vinagre balsámico de Módena Hacendado",
+    "precio": "1,75 € /ud."
   },
   {
-    "name": "Filetes de melva en aceite de oliva Hacendado",
-    "price": "1,95 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Vinagre de Jerez reserva Hacendado",
+    "precio": "2,00 € /ud."
   },
   {
-    "name": "Filetes de melva canutera con pimientos del piquillo Hacendado en aceite de oliva",
-    "price": "1,85 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Reducción bálsamica de vinagre Pedro Ximénez Hacendado",
+    "precio": "2,25 € /ud."
   },
   {
-    "name": "Sardinas en aceite de oliva Hacendado",
-    "price": "2,10 € /pack",
-    "footnote": "2 latas x 86 g"
+    "nombre": "Vinagre balsámico de Módena Hacendado",
+    "precio": "2,35 € /ud."
   },
   {
-    "name": "Sardinillas en aceite de oliva Hacendado",
-    "price": "2,00 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Sal fina Hacendado",
+    "precio": "0,40 € /ud."
   },
   {
-    "name": "Sardinillas reducidas en sal en aceite de oliva Hacendado",
-    "price": "2,05 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Sal fina de mesa Hacendado",
+    "precio": "0,75 € /ud."
   },
   {
-    "name": "Sardinillas en tomate Hacendado",
-    "price": "1,60 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Sal yodada fina Hacendado",
+    "precio": "0,40 € /ud."
   },
   {
-    "name": "Sardinillas picantes en aceite de girasol Hacendado",
-    "price": "1,75 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Sal gruesa Hacendado",
+    "precio": "0,40 € /ud."
   },
   {
-    "name": "Sardinillas en escabeche Hacendado",
-    "price": "1,85 € /pack",
-    "footnote": "2 latas x 65 g"
+    "nombre": "Bicarbonato de sódio Hacendado",
+    "precio": "1,50 € /ud."
   },
   {
-    "name": "Calamar en salsa americana Hacendado",
-    "price": "2,80 € /pack",
-    "footnote": "3 latas x 59 g"
+    "nombre": "Bicarbonato de sódio Hacendado",
+    "precio": "1,10 € /ud."
   },
   {
-    "name": "Calamar en tinta Hacendado",
-    "price": "3,10 € /pack",
-    "footnote": "3 latas x 59 g"
+    "nombre": "Escamas de sal marina natural Polasal",
+    "precio": "2,00 € /ud."
   },
   {
-    "name": "Tacos de pota al ajillo Hacendado",
-    "price": "3,55 € /pack",
-    "footnote": "3 latas x 54 g"
+    "nombre": "Sal gruesa para hornear Hacendado",
+    "precio": "1,25 € /ud."
   },
   {
-    "name": "Salmón al natural Hacendado",
-    "price": "3,65 € /pack",
-    "footnote": "3 latas x 50 g"
+    "nombre": "Sal de ajo Hacendado",
+    "precio": "1,80 € /ud."
   },
   {
-    "name": "Chipirones rellenos enteros en aceite de girasol Hacendado",
-    "price": "2,25 € /ud.",
-    "footnote": "Lata"
+    "nombre": "Sal de frutas sabor limón Hacendado",
+    "precio": "2,10 € /ud."
+  },
+  {
+    "nombre": "Sal 60% menos de sodio Hacendado",
+    "precio": "2,30 € /ud."
+  },
+  {
+    "nombre": "Preparado para ahumar Hacendado",
+    "precio": "3,30 € /ud."
+  },
+  {
+    "nombre": "Sal rosa del Himalaya Hacendado",
+    "precio": "2,65 € /ud."
   }
 ]
